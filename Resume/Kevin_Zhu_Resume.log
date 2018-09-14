@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  11 SEP 2018 20:50
+This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  13 SEP 2018 19:33
  restricted system commands enabled.
 **Kevin_Zhu_Resume.tex
 (./Kevin_Zhu_Resume.tex
@@ -33,7 +33,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.534 seconds
+luaotfload | main : initialization completed in 0.440 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -93,25 +93,6 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box26
 \enitdp@description=\count90
 )
-("C:/Program Files/MiKTeX 2.9/tex/latex/graphics/color.sty"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-("C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: luatex.def on input line 147.
-
-("C:/Program Files/MiKTeX 2.9/tex/latex/graphics-def/luatex.def"
-File: luatex.def 2017/01/12 v0.01h Graphics/Color for luaTeX
-
-("C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count91
-))
 ("C:/Program Files/MiKTeX 2.9/tex/latex/fontspec/fontspec.sty"
 ("C:/Program Files/MiKTeX 2.9/tex/latex/l3packages/xparse/xparse.sty"
 ("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty"
@@ -120,18 +101,18 @@ Package: expl3 2017/12/05 L3 programming layer (loader)
 ("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/expl3-code.tex"
 Package: expl3 2017/12/05 L3 programming layer (code)
 \ucharcat@table=\catcodetable5
-\c_max_int=\count92
-\l_tmpa_int=\count93
-\l_tmpb_int=\count94
-\g_tmpa_int=\count95
-\g_tmpb_int=\count96
-\g__intarray_font_int=\count97
-\g__prg_map_int=\count98
-\c_log_iow=\count99
-\l_iow_line_count_int=\count100
-\l__iow_line_target_int=\count101
-\l__iow_one_indent_int=\count102
-\l__iow_indent_int=\count103
+\c_max_int=\count91
+\l_tmpa_int=\count92
+\l_tmpb_int=\count93
+\g_tmpa_int=\count94
+\g_tmpb_int=\count95
+\g__intarray_font_int=\count96
+\g__prg_map_int=\count97
+\c_log_iow=\count98
+\l_iow_line_count_int=\count99
+\l__iow_line_target_int=\count100
+\l__iow_one_indent_int=\count101
+\l__iow_indent_int=\count102
 \c_zero_dim=\dimen112
 \c_max_dim=\dimen113
 \l_tmpa_dim=\dimen114
@@ -150,75 +131,75 @@ Package: expl3 2017/12/05 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count104
-\c__fp_leading_shift_int=\count105
-\c__fp_middle_shift_int=\count106
-\c__fp_trailing_shift_int=\count107
-\c__fp_big_leading_shift_int=\count108
-\c__fp_big_middle_shift_int=\count109
-\c__fp_big_trailing_shift_int=\count110
-\c__fp_Bigg_leading_shift_int=\count111
-\c__fp_Bigg_middle_shift_int=\count112
-\c__fp_Bigg_trailing_shift_int=\count113
-\c__fp_rand_size_int=\count114
-\c__fp_rand_four_int=\count115
-\c__fp_rand_eight_int=\count116
-\l__sort_length_int=\count117
-\l__sort_min_int=\count118
-\l__sort_top_int=\count119
-\l__sort_max_int=\count120
-\l__sort_true_max_int=\count121
-\l__sort_block_int=\count122
-\l__sort_begin_int=\count123
-\l__sort_end_int=\count124
-\l__sort_A_int=\count125
-\l__sort_B_int=\count126
-\l__sort_C_int=\count127
-\l__tl_build_start_index_int=\count128
-\l__tl_build_index_int=\count129
-\l__tl_analysis_normal_int=\count130
-\l__tl_analysis_index_int=\count131
-\l__tl_analysis_nesting_int=\count132
-\l__tl_analysis_type_int=\count133
-\l__regex_internal_a_int=\count134
-\l__regex_internal_b_int=\count135
-\l__regex_internal_c_int=\count136
-\l__regex_balance_int=\count137
-\l__regex_group_level_int=\count138
-\l__regex_mode_int=\count139
-\c__regex_cs_in_class_mode_int=\count140
-\c__regex_cs_mode_int=\count141
-\l__regex_catcodes_int=\count142
-\l__regex_default_catcodes_int=\count143
-\c__regex_catcode_L_int=\count144
-\c__regex_catcode_O_int=\count145
-\c__regex_catcode_A_int=\count146
-\c__regex_all_catcodes_int=\count147
-\l__regex_show_lines_int=\count148
-\l__regex_min_state_int=\count149
-\l__regex_max_state_int=\count150
-\l__regex_left_state_int=\count151
-\l__regex_right_state_int=\count152
-\l__regex_capturing_group_int=\count153
-\l__regex_min_pos_int=\count154
-\l__regex_max_pos_int=\count155
-\l__regex_curr_pos_int=\count156
-\l__regex_start_pos_int=\count157
-\l__regex_success_pos_int=\count158
-\l__regex_curr_char_int=\count159
-\l__regex_curr_catcode_int=\count160
-\l__regex_last_char_int=\count161
-\l__regex_case_changed_char_int=\count162
-\l__regex_curr_state_int=\count163
-\l__regex_step_int=\count164
-\l__regex_min_active_int=\count165
-\l__regex_max_active_int=\count166
-\l__regex_replacement_csnames_int=\count167
-\l__regex_match_count_int=\count168
-\l__regex_min_submatch_int=\count169
-\l__regex_submatch_int=\count170
-\l__regex_zeroth_submatch_int=\count171
-\g__debug_trace_regex_int=\count172
+\l_keys_choice_int=\count103
+\c__fp_leading_shift_int=\count104
+\c__fp_middle_shift_int=\count105
+\c__fp_trailing_shift_int=\count106
+\c__fp_big_leading_shift_int=\count107
+\c__fp_big_middle_shift_int=\count108
+\c__fp_big_trailing_shift_int=\count109
+\c__fp_Bigg_leading_shift_int=\count110
+\c__fp_Bigg_middle_shift_int=\count111
+\c__fp_Bigg_trailing_shift_int=\count112
+\c__fp_rand_size_int=\count113
+\c__fp_rand_four_int=\count114
+\c__fp_rand_eight_int=\count115
+\l__sort_length_int=\count116
+\l__sort_min_int=\count117
+\l__sort_top_int=\count118
+\l__sort_max_int=\count119
+\l__sort_true_max_int=\count120
+\l__sort_block_int=\count121
+\l__sort_begin_int=\count122
+\l__sort_end_int=\count123
+\l__sort_A_int=\count124
+\l__sort_B_int=\count125
+\l__sort_C_int=\count126
+\l__tl_build_start_index_int=\count127
+\l__tl_build_index_int=\count128
+\l__tl_analysis_normal_int=\count129
+\l__tl_analysis_index_int=\count130
+\l__tl_analysis_nesting_int=\count131
+\l__tl_analysis_type_int=\count132
+\l__regex_internal_a_int=\count133
+\l__regex_internal_b_int=\count134
+\l__regex_internal_c_int=\count135
+\l__regex_balance_int=\count136
+\l__regex_group_level_int=\count137
+\l__regex_mode_int=\count138
+\c__regex_cs_in_class_mode_int=\count139
+\c__regex_cs_mode_int=\count140
+\l__regex_catcodes_int=\count141
+\l__regex_default_catcodes_int=\count142
+\c__regex_catcode_L_int=\count143
+\c__regex_catcode_O_int=\count144
+\c__regex_catcode_A_int=\count145
+\c__regex_all_catcodes_int=\count146
+\l__regex_show_lines_int=\count147
+\l__regex_min_state_int=\count148
+\l__regex_max_state_int=\count149
+\l__regex_left_state_int=\count150
+\l__regex_right_state_int=\count151
+\l__regex_capturing_group_int=\count152
+\l__regex_min_pos_int=\count153
+\l__regex_max_pos_int=\count154
+\l__regex_curr_pos_int=\count155
+\l__regex_start_pos_int=\count156
+\l__regex_success_pos_int=\count157
+\l__regex_curr_char_int=\count158
+\l__regex_curr_catcode_int=\count159
+\l__regex_last_char_int=\count160
+\l__regex_case_changed_char_int=\count161
+\l__regex_curr_state_int=\count162
+\l__regex_step_int=\count163
+\l__regex_min_active_int=\count164
+\l__regex_max_active_int=\count165
+\l__regex_replacement_csnames_int=\count166
+\l__regex_match_count_int=\count167
+\l__regex_min_submatch_int=\count168
+\l__regex_submatch_int=\count169
+\l__regex_zeroth_submatch_int=\count170
+\g__debug_trace_regex_int=\count171
 \c_empty_box=\box27
 \l_tmpa_box=\box28
 \l_tmpb_box=\box29
@@ -262,29 +243,29 @@ Package: expl3 2017/12/05 L3 programming layer (code)
 )
 ("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/l3pdfmode.def"
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count173
+\l__driver_color_stack_int=\count172
 \l__driver_tmp_box=\box42
 ))
 Package: xparse 2017/09/18 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count174
-\g__xparse_grabber_int=\count175
-\l__xparse_m_args_int=\count176
-\l__xparse_mandatory_args_int=\count177
-\l__xparse_v_nesting_int=\count178
+\l__xparse_current_arg_int=\count173
+\g__xparse_grabber_int=\count174
+\l__xparse_m_args_int=\count175
+\l__xparse_mandatory_args_int=\count176
+\l__xparse_v_nesting_int=\count177
 )
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2017/11/09 2.6g Font selection for XeLaTeX and LuaLaTeX
 ("C:/Program Files/MiKTeX 2.9/tex/latex/fontspec/fontspec-luatex.sty"
 Package: fontspec-luatex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count179
-\l__fontspec_language_int=\count180
-\l__fontspec_strnum_int=\count181
-\l__fontspec_tmp_int=\count182
-\l__fontspec_em_int=\count183
-\l__fontspec_emdef_int=\count184
-\l__fontspec_strong_int=\count185
-\l__fontspec_strongdef_int=\count186
+\l__fontspec_script_int=\count178
+\l__fontspec_language_int=\count179
+\l__fontspec_strnum_int=\count180
+\l__fontspec_tmp_int=\count181
+\l__fontspec_em_int=\count182
+\l__fontspec_emdef_int=\count183
+\l__fontspec_strong_int=\count184
+\l__fontspec_strongdef_int=\count185
 \l__fontspec_tmpa_dim=\dimen143
 \l__fontspec_tmpb_dim=\dimen144
 \l__fontspec_tmpc_dim=\dimen145
@@ -494,7 +475,7 @@ luaotfload | cache : Lookup cache loaded from C:/Users/Kevin/AppData/Local/MiKTe
 X/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: C:/Users
 /Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/baskerville-10-pr
 o.luc)
-\g__fontspec_family_Baskerville10Pro_int=\count187
+\g__fontspec_family_Baskerville10Pro_int=\count186
 (load luc: C:/Users/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/ot
 l/baskerville-10-pro-bold-italic.luc)(load luc: C:/Users/Kevin/AppData/Local/MiK
 TeX/2.9/luatex-cache/generic/fonts/otl/baskerville-10-pro-bold.luc)(load luc: C:
@@ -525,7 +506,7 @@ TeX/2.9/luatex-cache/generic/fonts/otl/baskerville-10-pro-bold.luc)(load luc: C:
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 . <->"Baskerville10Pro/BI:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 8.
+LaTeX Info: Redefining \rmfamily on input line 7.
  (./Kevin_Zhu_Resume.aux)
 \openout1 = Kevin_Zhu_Resume.aux
 
@@ -578,20 +559,6 @@ LaTeX Font Info:    ... okay on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:/Program Files/MiKTeX 2.9/tex/context/base/supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count188
-\scratchdimen=\dimen146
-\scratchbox=\box43
-\nofMPsegments=\count189
-\nofMParguments=\count190
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count191
-\MPscratchDim=\dimen147
-\MPnumerator=\count192
-\makeMPintoPDFobject=\count193
-\everyMPtoPDFconversion=\toks18
-)
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -657,25 +624,24 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 16.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 125.
-
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 134.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 125.
+(Font)              size <5> substituted on input line 134.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 125.
+(Font)              size <5> substituted on input line 134.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 125.
+(Font)              <11> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 125.
+(Font)              <7.69997> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 125.
+(Font)              <5.5> on input line 134.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 125.
+(Font)              size <5> substituted on input line 134.
 
 [1
 
@@ -687,19 +653,19 @@ LaTeX Font Warning: Size substitutions with differences
 )
 
 Here is how much of LuaTeX's memory you used:
- 11617 strings out of 494489
+ 10862 strings out of 494489
  100000,383344 words of node,token memory allocated
  396 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 51 glue_spec, 4 attribute_list
 , 1 write nodes
-   avail lists: 2:387,3:126,4:57,5:47,6:2711,7:759,8:7,9:143,10:18,11:289
- 15556 multiletter control sequences out of 65536+200000
+   avail lists: 2:327,3:123,4:20,5:45,6:2817,7:758,8:7,9:137,10:18,11:307
+ 14843 multiletter control sequences out of 65536+200000
  55 fonts using 9109871 bytes
- 39i,5n,67p,399b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,4n,67p,399b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/baskerville-10-pro-italic.ttf><C:/WINDOWS/Fonts/baskerville-10
 -pro-bold-italic.ttf><C:/WINDOWS/Fonts/baskerville-10-pro.ttf><C:/WINDOWS/Fonts/
 baskerville-10-pro-bold.ttf>
-Output written on Kevin_Zhu_Resume.pdf (1 page, 28295 bytes).
+Output written on Kevin_Zhu_Resume.pdf (1 page, 28148 bytes).
 
 PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
