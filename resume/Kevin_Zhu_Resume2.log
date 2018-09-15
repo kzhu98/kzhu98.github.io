@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  14 SEP 2018 18:16
+This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  14 SEP 2018 21:00
  restricted system commands enabled.
 **Kevin_Zhu_Resume2.tex
 (./Kevin_Zhu_Resume2.tex
@@ -33,7 +33,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.556 seconds
+luaotfload | main : initialization completed in 0.515 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -659,14 +659,14 @@ Here is how much of LuaTeX's memory you used:
  396 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 51 glue_spec, 4 attribute_list
 , 1 write nodes
-   avail lists: 2:339,3:127,4:19,5:46,6:3179,7:817,8:7,9:140,10:17,11:366
+   avail lists: 2:335,3:127,4:19,5:44,6:3179,7:817,8:7,9:140,10:17,11:366
  14843 multiletter control sequences out of 65536+200000
  55 fonts using 9109871 bytes
  39i,4n,67p,400b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/baskerville-10-pro-italic.ttf><C:/WINDOWS/Fonts/baskerville-10
 -pro-bold-italic.ttf><C:/WINDOWS/Fonts/baskerville-10-pro.ttf><C:/WINDOWS/Fonts/
 baskerville-10-pro-bold.ttf>
-Output written on Kevin_Zhu_Resume2.pdf (1 page, 29254 bytes).
+Output written on Kevin_Zhu_Resume2.pdf (1 page, 28185 bytes).
 
 PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
