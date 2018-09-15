@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  15 SEP 2018 07:08
+This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  15 SEP 2018 07:12
  restricted system commands enabled.
 **Kevin_Zhu_Resume3.tex
 (./Kevin_Zhu_Resume3.tex
@@ -33,7 +33,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.937 seconds
+luaotfload | main : initialization completed in 0.918 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -645,7 +645,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (./Kevin_Zhu_Resume3.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -659,16 +659,16 @@ Here is how much of LuaTeX's memory you used:
  401 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 52 glue_spec, 4 attribute_list
 , 1 write nodes
-   avail lists: 2:368,3:127,4:20,5:527,6:3035,7:810,8:7,9:142,10:17,11:338
+   avail lists: 2:365,3:128,4:20,5:514,6:3035,7:813,8:7,9:142,10:17,11:338
  14843 multiletter control sequences out of 65536+200000
  55 fonts using 8574511 bytes
- 39i,4n,67p,399b,246s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,4n,67p,399b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/atfgaramondbolditalic_0.otf><C:/WINDOWS/Fonts/atfgaramonditali
 c_0.otf><C:/WINDOWS/Fonts/atfgaramondroman_0.otf><C:/WINDOWS/Fonts/atfgaramondbo
 ld_0.otf>
-Output written on Kevin_Zhu_Resume3.pdf (2 pages, 40705 bytes).
+Output written on Kevin_Zhu_Resume3.pdf (1 page, 40289 bytes).
 
-PDF statistics: 37 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
