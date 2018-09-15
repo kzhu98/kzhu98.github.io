@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  14 SEP 2018 21:00
+This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  14 SEP 2018 21:20
  restricted system commands enabled.
 **Kevin_Zhu_Resume2.tex
 (./Kevin_Zhu_Resume2.tex
@@ -33,7 +33,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.515 seconds
+luaotfload | main : initialization completed in 0.454 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -473,41 +473,41 @@ LaTeX Info: Redefining \- on input line 3749.
 ))
 luaotfload | cache : Lookup cache loaded from C:/Users/Kevin/AppData/Local/MiKTe
 X/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: C:/Users
-/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/baskerville-10-pr
-o.luc)
-\g__fontspec_family_Baskerville10Pro_int=\count186
+/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/atfgaramondroman-
+0.luc)
+\g__fontspec_family_GaramondATFText_int=\count186
 (load luc: C:/Users/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/ot
-l/baskerville-10-pro-bold-italic.luc)(load luc: C:/Users/Kevin/AppData/Local/MiK
-TeX/2.9/luatex-cache/generic/fonts/otl/baskerville-10-pro-bold.luc)(load luc: C:
-/Users/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/baskerville
--10-pro-italic.luc)
+l/atfgaramondbolditalic-0.luc)(load luc: C:/Users/Kevin/AppData/Local/MiKTeX/2.9
+/luatex-cache/generic/fonts/otl/atfgaramondbold-0.luc)(load luc: C:/Users/Kevin/
+AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/atfgaramonditalic-0.luc)
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Baskerville10Pro(0)' created for font 'Baskerville 10 Pro' with
+. Font family 'GaramondATFText(0)' created for font 'Garamond ATF Text' with
 . options [Ligatures=TeX].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"Baskerville10Pro:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"GaramondATFText:mode=node;script=latn;language=DFLT;+tlig;"
 . - 'small caps'  (m/sc) with NFSS spec.:
-. <->"Baskerville10Pro:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"GaramondATFText:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"Baskerville10Pro/B:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"GaramondATFText/B:mode=node;script=latn;language=DFLT;+tlig;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.:
-. <->"Baskerville10Pro/B:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"GaramondATFText/B:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
 . - 'italic' (m/it) with NFSS spec.:
-. <->"Baskerville10Pro/I:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"GaramondATFText/I:mode=node;script=latn;language=DFLT;+tlig;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.:
-. <->"Baskerville10Pro/I:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"GaramondATFText/I:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
 . - 'bold italic' (bx/it) with NFSS spec.:
-. <->"Baskerville10Pro/BI:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"GaramondATFText/BI:mode=node;script=latn;language=DFLT;+tlig;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-. <->"Baskerville10Pro/BI:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"GaramondATFText/BI:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 7.
- (./Kevin_Zhu_Resume2.aux)
+LaTeX Info: Redefining \rmfamily on input line 8.
+
+(./Kevin_Zhu_Resume2.aux)
 \openout1 = Kevin_Zhu_Resume2.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -594,32 +594,32 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 16.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Baskerville10Pro(0)/m/n on input line
- 16.
+(Font)                  OT1/cmr/m/n --> TU/GaramondATFText(0)/m/n on input line 
+16.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Baskerville10Pro(0)/m/n on input lin
-e 16.
+(Font)                  OT1/cmr/bx/n --> TU/GaramondATFText(0)/m/n on input line
+ 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Baskerville10Pro(0)/m/n --> TU/Baskerville10Pro(0)/m/
-n on input line 16.
+(Font)                  TU/GaramondATFText(0)/m/n --> TU/GaramondATFText(0)/m/n 
+on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Baskerville10Pro(0)/m/it on input li
-ne 16.
+(Font)                  OT1/cmr/m/it --> TU/GaramondATFText(0)/m/it on input lin
+e 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Baskerville10Pro(0)/bx/n on input li
-ne 16.
+(Font)                  OT1/cmr/bx/n --> TU/GaramondATFText(0)/bx/n on input lin
+e 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Baskerville10Pro(0)/m/n --> TU/Baskerville10Pro(0)/bx
-/n on input line 16.
+(Font)                  TU/GaramondATFText(0)/m/n --> TU/GaramondATFText(0)/bx/n
+ on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Baskerville10Pro(0)/bx/it on input 
-line 16.
+(Font)                  OT1/cmr/bx/it --> TU/GaramondATFText(0)/bx/it on input l
+ine 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
@@ -656,17 +656,17 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of LuaTeX's memory you used:
  10862 strings out of 494489
  100000,383344 words of node,token memory allocated
- 396 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 51 glue_spec, 4 attribute_list
+ 401 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 52 glue_spec, 4 attribute_list
 , 1 write nodes
-   avail lists: 2:335,3:127,4:19,5:44,6:3179,7:817,8:7,9:140,10:17,11:366
+   avail lists: 2:355,3:127,4:20,5:552,6:3184,7:817,8:7,9:140,10:17,11:366
  14843 multiletter control sequences out of 65536+200000
- 55 fonts using 9109871 bytes
- 39i,4n,67p,400b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/WINDOWS/Fonts/baskerville-10-pro-italic.ttf><C:/WINDOWS/Fonts/baskerville-10
--pro-bold-italic.ttf><C:/WINDOWS/Fonts/baskerville-10-pro.ttf><C:/WINDOWS/Fonts/
-baskerville-10-pro-bold.ttf>
-Output written on Kevin_Zhu_Resume2.pdf (1 page, 28185 bytes).
+ 55 fonts using 8574511 bytes
+ 39i,4n,67p,399b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/WINDOWS/Fonts/atfgaramondbolditalic_0.otf><C:/WINDOWS/Fonts/atfgaramonditali
+c_0.otf><C:/WINDOWS/Fonts/atfgaramondroman_0.otf><C:/WINDOWS/Fonts/atfgaramondbo
+ld_0.otf>
+Output written on Kevin_Zhu_Resume2.pdf (1 page, 40117 bytes).
 
 PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
