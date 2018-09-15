@@ -1,7 +1,7 @@
-This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  15 SEP 2018 07:07
+This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  15 SEP 2018 07:08
  restricted system commands enabled.
-**Kevin_Zhu_Resume2.tex
-(./Kevin_Zhu_Resume2.tex
+**Kevin_Zhu_Resume3.tex
+(./Kevin_Zhu_Resume3.tex
 LaTeX2e <2017-04-15>
 Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
 Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
@@ -33,7 +33,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.633 seconds
+luaotfload | main : initialization completed in 0.937 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -507,8 +507,8 @@ AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/atfgaramonditalic-0.luc)
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 8.
 
-(./Kevin_Zhu_Resume2.aux)
-\openout1 = Kevin_Zhu_Resume2.aux
+(./Kevin_Zhu_Resume3.aux)
+\openout1 = Kevin_Zhu_Resume3.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -624,29 +624,29 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 16.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 127.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 129.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 127.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 127.
+(Font)              size <5> substituted on input line 129.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 127.
+(Font)              <11> on input line 129.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 127.
+(Font)              <7.69997> on input line 129.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 127.
+(Font)              <5.5> on input line 129.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 127.
+(Font)              size <5> substituted on input line 129.
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(./Kevin_Zhu_Resume2.aux)
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+(./Kevin_Zhu_Resume3.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -659,16 +659,16 @@ Here is how much of LuaTeX's memory you used:
  401 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 52 glue_spec, 4 attribute_list
 , 1 write nodes
-   avail lists: 2:355,3:127,4:20,5:552,6:3184,7:817,8:7,9:140,10:17,11:366
+   avail lists: 2:368,3:127,4:20,5:527,6:3035,7:810,8:7,9:142,10:17,11:338
  14843 multiletter control sequences out of 65536+200000
  55 fonts using 8574511 bytes
- 39i,4n,67p,399b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,4n,67p,399b,246s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/atfgaramondbolditalic_0.otf><C:/WINDOWS/Fonts/atfgaramonditali
 c_0.otf><C:/WINDOWS/Fonts/atfgaramondroman_0.otf><C:/WINDOWS/Fonts/atfgaramondbo
 ld_0.otf>
-Output written on Kevin_Zhu_Resume2.pdf (1 page, 40117 bytes).
+Output written on Kevin_Zhu_Resume3.pdf (2 pages, 40705 bytes).
 
-PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
