@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  16 SEP 2018 10:51
+This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  16 SEP 2018 13:24
  restricted system commands enabled.
 **Kevin_Zhu_Resume.tex
 (./Kevin_Zhu_Resume.tex
@@ -33,7 +33,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.618 seconds
+luaotfload | main : initialization completed in 0.422 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -658,14 +658,14 @@ Here is how much of LuaTeX's memory you used:
  396 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 51 glue_spec, 4 attribute_list
 , 1 write nodes
-   avail lists: 2:367,3:128,4:19,5:515,6:3060,7:814,8:7,9:142,10:17,11:339
+   avail lists: 2:367,3:128,4:19,5:519,6:3077,7:816,8:7,9:142,10:17,11:340
  14842 multiletter control sequences out of 65536+200000
  54 fonts using 8442759 bytes
  39i,4n,67p,398b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/atfgaramondbolditalic_0.otf><C:/WINDOWS/Fonts/atfgaramonditali
 c_0.otf><C:/WINDOWS/Fonts/atfgaramondroman_0.otf><C:/WINDOWS/Fonts/atfgaramondbo
 ld_0.otf>
-Output written on Kevin_Zhu_Resume.pdf (1 page, 40514 bytes).
+Output written on Kevin_Zhu_Resume.pdf (1 page, 40554 bytes).
 
 PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
