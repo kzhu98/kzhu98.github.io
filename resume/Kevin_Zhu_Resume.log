@@ -1,28 +1,43 @@
-This is LuaTeX, Version 1.0.4 (MiKTeX 2.9.6300 64-bit)  (format=lualatex 2018.2.14)  20 JAN 2019 22:36
+This is LuaTeX, Version 1.10.0 (MiKTeX 2.9.7050 64-bit)  (format=lualatex 2019.7.14)  30 AUG 2019 22:45
  restricted system commands enabled.
 **Kevin_Zhu_Resume.tex
 (./Kevin_Zhu_Resume.tex
-LaTeX2e <2017-04-15>
-Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
-Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
-llection.(using cache: C:/Users/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/gene
-ric)
-luaotfload | conf : Root cache directory is C:/Users/Kevin/AppData/Local/MiKTeX/
+LaTeX2e <2018-12-01>
+Lua module: luaotfload-main 2019-05-18 2.97 luaotfload entry point
+Lua module: luaotfload-init 2019-05-18 2.97 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2019-05-18 2.65 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2019-05-18 2.65 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2019-05-18 2.97 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2019-05-18 2.97 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2019-05-18 2.97 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is C:/Users/kevin/AppData/Local/MiKTeX/
 2.9/luatex-cache/generic/names.
-luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
--resolved path “C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/fontloader-2
-017-02-11.lua”.
-Lua-only attribute luaotfload@state = 1
-Lua-only attribute luaotfload@noligature = 2
-Lua-only attribute luaotfload@syllabe = 3
-luaotfload | init : Context OpenType loader version “3.027”
+luaotfload | init : Loading fontloader “fontloader-2019-05-18.lua” from kpse
+-resolved path “C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/lu
+aotfload/fontloader-2019-05-18.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.108”
 Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2019-05-18 2.97 luaotfload submodule / callback h
+andling
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is C:/Users/Kevin/AppData/Local/MiKTeX/
+Lua module: luaotfload-database 2019-05-18 2.97 luaotfload submodule / database
+Lua module: luaotfload-colors 2019-05-18 2.97 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 5
+Lua module: luaotfload-resolvers 2019-05-18 2.97 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is C:/Users/kevin/AppData/Local/MiKTeX/
 2.9/luatex-cache/generic/names.
+Lua module: luaotfload-features 2019-05-18 2.97 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2019-05-18 2.97 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2019-05-18 2.97 luaotfload submodule / auxiliar
+y functions
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
@@ -33,47 +48,50 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.510 seconds
-Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
-("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:/Program Files/MiKTeX 2.9/tex/latex/base/size11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from C:/Users/Kevin/AppData/Local/M
-iKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc(load luc: C:/Users/Kev
-in/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/lmroman10-regular.luc
-))
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+luaotfload | main : initialization completed in 1.481 seconds
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size11.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/kevin/AppData/Local/M
+iKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
+)
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/graphics/keyval.sty"
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty"
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.
+sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:/Program Files/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty"
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.
+sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count87
-\Gm@cntv=\count88
-\c@Gm@tempcnt=\count89
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -84,35 +102,42 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.cfg"))
-("C:/Program Files/MiKTeX 2.9/tex/latex/enumitem/enumitem.sty"
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.
+cfg"))
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/enumitem/enumitem.
+sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip43
 \enit@outerparindent=\dimen111
 \enit@toks=\toks16
-\enit@inbox=\box26
-\enitdp@description=\count90
+\enit@inbox=\box27
+\enit@count@id=\count91
+\enitdp@description=\count92
 )
-("C:/Program Files/MiKTeX 2.9/tex/latex/fontspec/fontspec.sty"
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3packages/xparse/xparse.sty"
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty"
-Package: expl3 2017/12/05 L3 programming layer (loader) 
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec.
+sty"
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/xparse/
+xparse.sty"
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty
+"
+Package: expl3 2019-07-01 L3 programming layer (loader) 
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/expl3-code.tex"
-Package: expl3 2017/12/05 L3 programming layer (code)
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3-cod
+e.tex"
+Package: expl3 2019-07-01 L3 programming layer (code)
 \ucharcat@table=\catcodetable5
-\c_max_int=\count91
-\l_tmpa_int=\count92
-\l_tmpb_int=\count93
-\g_tmpa_int=\count94
-\g_tmpb_int=\count95
-\g__intarray_font_int=\count96
-\g__prg_map_int=\count97
-\c_log_iow=\count98
-\l_iow_line_count_int=\count99
-\l__iow_line_target_int=\count100
-\l__iow_one_indent_int=\count101
-\l__iow_indent_int=\count102
+\c_max_int=\count93
+\l_tmpa_int=\count94
+\l_tmpb_int=\count95
+\g_tmpa_int=\count96
+\g_tmpb_int=\count97
+\g__kernel_prg_map_int=\count98
+\c__ior_term_ior=\count99
+\c_log_iow=\count100
+\l_iow_line_count_int=\count101
+\l__iow_line_target_int=\count102
+\l__iow_one_indent_int=\count103
+\l__iow_indent_int=\count104
 \c_zero_dim=\dimen112
 \c_max_dim=\dimen113
 \l_tmpa_dim=\dimen114
@@ -131,404 +156,254 @@ Package: expl3 2017/12/05 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count103
-\c__fp_leading_shift_int=\count104
-\c__fp_middle_shift_int=\count105
-\c__fp_trailing_shift_int=\count106
-\c__fp_big_leading_shift_int=\count107
-\c__fp_big_middle_shift_int=\count108
-\c__fp_big_trailing_shift_int=\count109
-\c__fp_Bigg_leading_shift_int=\count110
-\c__fp_Bigg_middle_shift_int=\count111
-\c__fp_Bigg_trailing_shift_int=\count112
-\c__fp_rand_size_int=\count113
-\c__fp_rand_four_int=\count114
-\c__fp_rand_eight_int=\count115
-\l__sort_length_int=\count116
-\l__sort_min_int=\count117
-\l__sort_top_int=\count118
-\l__sort_max_int=\count119
-\l__sort_true_max_int=\count120
-\l__sort_block_int=\count121
-\l__sort_begin_int=\count122
-\l__sort_end_int=\count123
-\l__sort_A_int=\count124
-\l__sort_B_int=\count125
-\l__sort_C_int=\count126
-\l__tl_build_start_index_int=\count127
-\l__tl_build_index_int=\count128
-\l__tl_analysis_normal_int=\count129
-\l__tl_analysis_index_int=\count130
-\l__tl_analysis_nesting_int=\count131
-\l__tl_analysis_type_int=\count132
-\l__regex_internal_a_int=\count133
-\l__regex_internal_b_int=\count134
-\l__regex_internal_c_int=\count135
-\l__regex_balance_int=\count136
-\l__regex_group_level_int=\count137
-\l__regex_mode_int=\count138
-\c__regex_cs_in_class_mode_int=\count139
-\c__regex_cs_mode_int=\count140
-\l__regex_catcodes_int=\count141
-\l__regex_default_catcodes_int=\count142
-\c__regex_catcode_L_int=\count143
-\c__regex_catcode_O_int=\count144
-\c__regex_catcode_A_int=\count145
-\c__regex_all_catcodes_int=\count146
-\l__regex_show_lines_int=\count147
-\l__regex_min_state_int=\count148
-\l__regex_max_state_int=\count149
-\l__regex_left_state_int=\count150
-\l__regex_right_state_int=\count151
-\l__regex_capturing_group_int=\count152
-\l__regex_min_pos_int=\count153
-\l__regex_max_pos_int=\count154
-\l__regex_curr_pos_int=\count155
-\l__regex_start_pos_int=\count156
-\l__regex_success_pos_int=\count157
-\l__regex_curr_char_int=\count158
-\l__regex_curr_catcode_int=\count159
-\l__regex_last_char_int=\count160
-\l__regex_case_changed_char_int=\count161
-\l__regex_curr_state_int=\count162
-\l__regex_step_int=\count163
-\l__regex_min_active_int=\count164
-\l__regex_max_active_int=\count165
-\l__regex_replacement_csnames_int=\count166
-\l__regex_match_count_int=\count167
-\l__regex_min_submatch_int=\count168
-\l__regex_submatch_int=\count169
-\l__regex_zeroth_submatch_int=\count170
-\g__debug_trace_regex_int=\count171
-\c_empty_box=\box27
-\l_tmpa_box=\box28
-\l_tmpb_box=\box29
-\g_tmpa_box=\box30
-\g_tmpb_box=\box31
-\l__box_top_dim=\dimen118
-\l__box_bottom_dim=\dimen119
-\l__box_left_dim=\dimen120
-\l__box_right_dim=\dimen121
-\l__box_top_new_dim=\dimen122
-\l__box_bottom_new_dim=\dimen123
-\l__box_left_new_dim=\dimen124
-\l__box_right_new_dim=\dimen125
-\l__box_internal_box=\box32
-\l__coffin_internal_box=\box33
-\l__coffin_internal_dim=\dimen126
-\l__coffin_offset_x_dim=\dimen127
-\l__coffin_offset_y_dim=\dimen128
-\l__coffin_x_dim=\dimen129
-\l__coffin_y_dim=\dimen130
-\l__coffin_x_prime_dim=\dimen131
-\l__coffin_y_prime_dim=\dimen132
-\c_empty_coffin=\box34
-\l__coffin_aligned_coffin=\box35
-\l__coffin_aligned_internal_coffin=\box36
-\l_tmpa_coffin=\box37
-\l_tmpb_coffin=\box38
-\l__coffin_display_coffin=\box39
-\l__coffin_display_coord_coffin=\box40
-\l__coffin_display_pole_coffin=\box41
-\l__coffin_display_offset_dim=\dimen133
-\l__coffin_display_x_dim=\dimen134
-\l__coffin_display_y_dim=\dimen135
-\l__coffin_bounding_shift_dim=\dimen136
-\l__coffin_left_corner_dim=\dimen137
-\l__coffin_right_corner_dim=\dimen138
-\l__coffin_bottom_corner_dim=\dimen139
-\l__coffin_top_corner_dim=\dimen140
-\l__coffin_scaled_total_height_dim=\dimen141
-\l__coffin_scaled_width_dim=\dimen142
-)
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/l3pdfmode.def"
-File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count172
-\l__driver_tmp_box=\box42
-))
-Package: xparse 2017/09/18 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count173
-\g__xparse_grabber_int=\count174
-\l__xparse_m_args_int=\count175
-\l__xparse_mandatory_args_int=\count176
-\l__xparse_v_nesting_int=\count177
-)
-Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2017/11/09 2.6g Font selection for XeLaTeX and LuaLaTeX
-("C:/Program Files/MiKTeX 2.9/tex/latex/fontspec/fontspec-luatex.sty"
-Package: fontspec-luatex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count178
-\l__fontspec_language_int=\count179
-\l__fontspec_strnum_int=\count180
-\l__fontspec_tmp_int=\count181
-\l__fontspec_em_int=\count182
-\l__fontspec_emdef_int=\count183
-\l__fontspec_strong_int=\count184
-\l__fontspec_strongdef_int=\count185
-\l__fontspec_tmpa_dim=\dimen143
-\l__fontspec_tmpb_dim=\dimen144
-\l__fontspec_tmpc_dim=\dimen145
+\l_keys_choice_int=\count105
+\l__intarray_loop_int=\count106
+\c__intarray_sp_dim=\dimen118
+\g__intarray_font_int=\count107
+\c__fp_leading_shift_int=\count108
+\c__fp_middle_shift_int=\count109
+\c__fp_trailing_shift_int=\count110
+\c__fp_big_leading_shift_int=\count111
+\c__fp_big_middle_shift_int=\count112
+\c__fp_big_trailing_shift_int=\count113
+\c__fp_Bigg_leading_shift_int=\count114
+\c__fp_Bigg_middle_shift_int=\count115
+\c__fp_Bigg_trailing_shift_int=\count116
+\g__fp_array_int=\count117
+\l__fp_array_loop_int=\count118
+\l__sort_length_int=\count119
+\l__sort_min_int=\count120
+\l__sort_top_int=\count121
+\l__sort_max_int=\count122
+\l__sort_true_max_int=\count123
+\l__sort_block_int=\count124
+\l__sort_begin_int=\count125
+\l__sort_end_int=\count126
+\l__sort_A_int=\count127
+\l__sort_B_int=\count128
+\l__sort_C_int=\count129
+\l__str_internal_int=\count130
+\l__tl_analysis_normal_int=\count131
+\l__tl_analysis_index_int=\count132
+\l__tl_analysis_nesting_int=\count133
+\l__tl_analysis_type_int=\count134
+\l__regex_internal_a_int=\count135
+\l__regex_internal_b_int=\count136
+\l__regex_internal_c_int=\count137
+\l__regex_balance_int=\count138
+\l__regex_group_level_int=\count139
+\l__regex_mode_int=\count140
+\c__regex_cs_in_class_mode_int=\count141
+\c__regex_cs_mode_int=\count142
+\l__regex_catcodes_int=\count143
+\l__regex_default_catcodes_int=\count144
+\c__regex_catcode_L_int=\count145
+\c__regex_catcode_O_int=\count146
+\c__regex_catcode_A_int=\count147
+\c__regex_all_catcodes_int=\count148
+\l__regex_show_lines_int=\count149
+\l__regex_min_state_int=\count150
+\l__regex_max_state_int=\count151
+\l__regex_left_state_int=\count152
+\l__regex_right_state_int=\count153
+\l__regex_capturing_group_int=\count154
+\l__regex_min_pos_int=\count155
+\l__regex_max_pos_int=\count156
+\l__regex_curr_pos_int=\count157
+\l__regex_start_pos_int=\count158
+\l__regex_success_pos_int=\count159
+\l__regex_curr_char_int=\count160
+\l__regex_curr_catcode_int=\count161
+\l__regex_last_char_int=\count162
+\l__regex_case_changed_char_int=\count163
+\l__regex_curr_state_int=\count164
+\l__regex_step_int=\count165
+\l__regex_min_active_int=\count166
+\l__regex_max_active_int=\count167
+\l__regex_replacement_csnames_int=\count168
+\l__regex_match_count_int=\count169
+\l__regex_min_submatch_int=\count170
+\l__regex_submatch_int=\count171
+\l__regex_zeroth_submatch_int=\count172
+\g__regex_trace_regex_int=\count173
+\c_empty_box=\box28
+\l_tmpa_box=\box29
+\l_tmpb_box=\box30
+\g_tmpa_box=\box31
+\g_tmpb_box=\box32
+\l__box_top_dim=\dimen119
+\l__box_bottom_dim=\dimen120
+\l__box_left_dim=\dimen121
+\l__box_right_dim=\dimen122
+\l__box_top_new_dim=\dimen123
+\l__box_bottom_new_dim=\dimen124
+\l__box_left_new_dim=\dimen125
+\l__box_right_new_dim=\dimen126
+\l__box_internal_box=\box33
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen127
+\l__coffin_offset_x_dim=\dimen128
+\l__coffin_offset_y_dim=\dimen129
+\l__coffin_x_dim=\dimen130
+\l__coffin_y_dim=\dimen131
+\l__coffin_x_prime_dim=\dimen132
+\l__coffin_y_prime_dim=\dimen133
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\g_tmpa_coffin=\box40
+\g_tmpb_coffin=\box41
+\l__coffin_bounding_shift_dim=\dimen134
+\l__coffin_left_corner_dim=\dimen135
+\l__coffin_right_corner_dim=\dimen136
+\l__coffin_bottom_corner_dim=\dimen137
+\l__coffin_top_corner_dim=\dimen138
+\l__coffin_scaled_total_height_dim=\dimen139
+\l__coffin_scaled_width_dim=\dimen140
+\c__coffin_empty_coffin=\box42
+\l__coffin_display_coffin=\box43
+\l__coffin_display_coord_coffin=\box44
+\l__coffin_display_pole_coffin=\box45
+\l__coffin_display_offset_dim=\dimen141
+\l__coffin_display_x_dim=\dimen142
+\l__coffin_display_y_dim=\dimen143
 \g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count174
+\l__seq_internal_b_int=\count175
+\c__deprecation_minus_one=\count176
+)
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2019-04-06 v L3 Experimental backend support: PDF mo
+de
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box46
+))
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count178
+\g__xparse_grabber_int=\count179
+\l__xparse_m_args_int=\count180
+\l__xparse_v_nesting_int=\count181
+)
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2019/03/15 2.7c Font selection for XeLaTeX and LuaLaTeX
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec-
+luatex.sty"
+Package: fontspec-luatex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count182
+\l__fontspec_language_int=\count183
+\l__fontspec_strnum_int=\count184
+\l__fontspec_tmp_int=\count185
+\l__fontspec_tmpa_int=\count186
+\l__fontspec_tmpb_int=\count187
+\l__fontspec_tmpc_int=\count188
+\l__fontspec_em_int=\count189
+\l__fontspec_emdef_int=\count190
+\l__fontspec_strong_int=\count191
+\l__fontspec_strongdef_int=\count192
+\l__fontspec_tmpa_dim=\dimen144
+\l__fontspec_tmpb_dim=\dimen145
+\l__fontspec_tmpc_dim=\dimen146
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/base/fontenc.sty"
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/base/tuenc.def"
-File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/tuenc.def"
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 545.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 549.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 553.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 557.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 561.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 565.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 569.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 577.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 581.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 585.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 589.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeatures with sig. 'm' on line 593.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeature with sig. 'm' on line 597.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfeature with sig. 'mm' on line 601.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newAATfeature with sig. 'mmmm' on line 605.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newopentypefeature with sig. 'mmm' on line 609.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newICUfeature with sig. 'mmm' on line 613.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeature with sig. 'mm' on line 617.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 621.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontscript with sig. 'mm' on line 625.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontlanguage with sig. 'mm' on line 629.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 633.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 637.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3366.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingAccent with sig. 'mm' on line 3372.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3378.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3384.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3390.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3415.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3421.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareAccent with sig. 'm' on line 3427.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareCommand with sig. 'm' on line 3433.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3440.
-.................................................
-
-("C:/Program Files/MiKTeX 2.9/tex/latex/fontspec/fontspec.cfg")
-LaTeX Info: Redefining \itshape on input line 3625.
-LaTeX Info: Redefining \slshape on input line 3630.
-LaTeX Info: Redefining \scshape on input line 3635.
-LaTeX Info: Redefining \upshape on input line 3640.
-LaTeX Info: Redefining \em on input line 3670.
-LaTeX Info: Redefining \emph on input line 3695.
-(load luc: C:/Users/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/ot
-l/lmroman10-bold.luc)(load luc: C:/Users/Kevin/AppData/Local/MiKTeX/2.9/luatex-c
-ache/generic/fonts/otl/lmroman10-italic.luc)
-LaTeX Info: Redefining \- on input line 3749.
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \oldstylenums with sig. 'm' on line 3844.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \liningnums with sig. 'm' on line 3848.
-.................................................
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec.
+cfg")
+LaTeX Info: Redefining \itshape on input line 3783.
+LaTeX Info: Redefining \slshape on input line 3788.
+LaTeX Info: Redefining \scshape on input line 3793.
+LaTeX Info: Redefining \upshape on input line 3798.
+LaTeX Info: Redefining \em on input line 3828.
+LaTeX Info: Redefining \emph on input line 3853.
 ))
-luaotfload | cache : Lookup cache loaded from C:/Users/Kevin/AppData/Local/MiKTe
-X/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: C:/Users
-/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/atfgaramondroman-
-0.luc)
-\g__fontspec_family_GaramondATFText_int=\count186
-(load luc: C:/Users/Kevin/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/ot
-l/atfgaramondbolditalic-0.luc)(load luc: C:/Users/Kevin/AppData/Local/MiKTeX/2.9
-/luatex-cache/generic/fonts/otl/atfgaramondbold-0.luc)(load luc: C:/Users/Kevin/
-AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/atfgaramonditalic-0.luc)
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'GaramondATFText(0)' created for font 'Garamond ATF Text' with
-. options [Ligatures=TeX].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"GaramondATFText:mode=node;script=latn;language=DFLT;+tlig;"
-. - 'small caps'  (m/sc) with NFSS spec.:
-. <->"GaramondATFText:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
-. - 'bold' (bx/n) with NFSS spec.:
-. <->"GaramondATFText/B:mode=node;script=latn;language=DFLT;+tlig;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.:
-. <->"GaramondATFText/B:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
-. - 'italic' (m/it) with NFSS spec.:
-. <->"GaramondATFText/I:mode=node;script=latn;language=DFLT;+tlig;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.:
-. <->"GaramondATFText/I:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
-. - 'bold italic' (bx/it) with NFSS spec.:
-. <->"GaramondATFText/BI:mode=node;script=latn;language=DFLT;+tlig;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-. <->"GaramondATFText/BI:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
-.................................................
-LaTeX Info: Redefining \rmfamily on input line 9.
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(./Kevin_Zhu_Resume.aux)
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/luate
+x.def"
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+luaotfload | cache : Lookup cache loaded from C:/Users/kevin/AppData/Local/MiKTe
+X/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: Font family 'GaramondATFText(0)' created for font
+(fontspec)             'Garamond ATF Text' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"GaramondATFText:mode=node;script=latn;language=DFLT;+
+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"GaramondATFText:mode=node;script=latn;language=DFLT;+
+tlig;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"GaramondATFText/B:mode=node;script=latn;language=DFLT
+;+tlig;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->"GaramondATFText/B:mode=node;script=latn;language=DFLT
+;+tlig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"GaramondATFText/I:mode=node;script=latn;language=DFLT
+;+tlig;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->"GaramondATFText/I:mode=node;script=latn;language=DFLT
+;+tlig;+smcp;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"GaramondATFText/BI:mode=node;script=latn;language=DFL
+T;+tlig;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->"GaramondATFText/BI:mode=node;script=latn;language=DFL
+T;+tlig;+smcp;"
+
+LaTeX Info: Redefining \rmfamily on input line 11.
+ (./Kevin_Zhu_Resume.aux)
 \openout1 = Kevin_Zhu_Resume.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: luatex
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -559,93 +434,110 @@ LaTeX Font Info:    ... okay on input line 17.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-.................................................
-. fontspec info: "setup-math"
-. 
-. Adjusting the maths setup (use [no-math] to avoid this).
-.................................................
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 17.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 17.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 17.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 17.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 17.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 17.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 17.
-LaTeX Font Info:    Redeclaring math accent \check on input line 17.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 17.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 17.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 17.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 17.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 19.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 19.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 19.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 19.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 19.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 19.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 19.
+LaTeX Font Info:    Redeclaring math accent \check on input line 19.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 19.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 19.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 19.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 19.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 19.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 17.
+(Font)              `operators' in the math version `normal' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/GaramondATFText(0)/m/n on input line 
-17.
+19.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 17.
+(Font)              `operators' in the math version `bold' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/GaramondATFText(0)/m/n on input line
- 17.
+ 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/GaramondATFText(0)/m/n --> TU/GaramondATFText(0)/m/n 
-on input line 17.
+on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/GaramondATFText(0)/m/it on input lin
-e 17.
+e 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/GaramondATFText(0)/bx/n on input lin
-e 17.
+e 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 17.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/GaramondATFText(0)/m/n --> TU/GaramondATFText(0)/bx/n
- on input line 17.
+ on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/GaramondATFText(0)/bx/it on input l
-ine 17.
+ine 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 17.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 17.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 131.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 19.
+
+("C:/Users/kevin/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/mkii/supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count193
+\scratchdimen=\dimen147
+\scratchbox=\box47
+\nofMPsegments=\count194
+\nofMParguments=\count195
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen148
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 122.
+
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 131.
+(Font)              size <5> substituted on input line 122.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 131.
+(Font)              size <5> substituted on input line 122.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 131.
+(Font)              <11> on input line 122.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 131.
+(Font)              <7.69997> on input line 122.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 131.
+(Font)              <5.5> on input line 122.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 131.
+(Font)              size <5> substituted on input line 122.
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (./Kevin_Zhu_Resume.aux)
+{C:/Users/kevin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(./Kevin_Zhu_Resume.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -653,19 +545,19 @@ LaTeX Font Warning: Size substitutions with differences
 )
 
 Here is how much of LuaTeX's memory you used:
- 10860 strings out of 494489
- 100000,383344 words of node,token memory allocated
- 396 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 51 glue_spec, 4 attribute_list
-, 1 write nodes
-   avail lists: 2:367,3:128,4:19,5:519,6:3077,7:816,8:7,9:142,10:17,11:340
- 14842 multiletter control sequences out of 65536+200000
- 54 fonts using 8442759 bytes
- 39i,4n,67p,398b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/WINDOWS/Fonts/atfgaramondbolditalic_0.otf><C:/WINDOWS/Fonts/atfgaramonditali
-c_0.otf><C:/WINDOWS/Fonts/atfgaramondroman_0.otf><C:/WINDOWS/Fonts/atfgaramondbo
-ld_0.otf>
-Output written on Kevin_Zhu_Resume.pdf (1 page, 40554 bytes).
+ 13977 strings out of 494291
+ 100000,460012 words of node,token memory allocated
+ 420 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 50 glue_spec,
+ 5 attribute_list, 1 write nodes
+   avail lists: 2:397,3:117,4:54,5:498,6:38,7:3974,9:137,10:21,11:342
+ 18043 multiletter control sequences out of 65536+200000
+ 61 fonts using 9266031 bytes
+ 47i,5n,78p,345b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/windows/Fonts/atfgaramondbolditalic.otf><C:/windows/Fonts/atfgaramonditalic.
+otf><C:/windows/Fonts/atfgaramondroman.otf><C:/windows/Fonts/atfgaramondbold.otf
+>
+Output written on Kevin_Zhu_Resume.pdf (1 page, 42148 bytes).
 
 PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
