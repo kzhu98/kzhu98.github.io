@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.11.2 (MiKTeX 2.9.7250 64-bit)  (format=lualatex 2020.5.24)  18 JUN 2020 15:28
+This is LuaTeX, Version 1.11.2 (MiKTeX 2.9.7250 64-bit)  (format=lualatex 2020.5.24)  22 FEB 2021 18:20
  restricted system commands enabled.
 **Kevin_Zhu_Resume.tex
 (./Kevin_Zhu_Resume.tex
@@ -59,7 +59,7 @@ Lua module: luaotfload-tounicode 2019-11-10 3.11 luaotfload submodule / tounicod
 e
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 1.226 seconds
+luaotfload | main : initialization completed in 1.451 seconds
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/size11.clo"
@@ -503,50 +503,24 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 \MPnumerator=\count196
 \makeMPintoPDFobject=\count197
 \everyMPtoPDFconversion=\toks18
-)
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 131.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 131.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 131.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 131.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 131.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 131.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 131.
-
-[1
+) [1
 
 {C:/Users/kevin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(./Kevin_Zhu_Resume.aux)
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
-
-)
+(./Kevin_Zhu_Resume.aux))
 
 Here is how much of LuaTeX's memory you used:
- 13967 strings out of 493864
+ 13946 strings out of 493864
  100000,460012 words of node,token memory allocated
  420 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 50 glue_spec,
  5 attribute_list, 1 write nodes
-   avail lists: 2:415,3:127,4:58,5:581,6:37,7:4387,9:138,10:21,11:384
- 18588 multiletter control sequences out of 65536+200000
- 60 fonts using 9119943 bytes
+   avail lists: 2:349,3:113,4:54,5:594,6:35,7:4349,9:129,10:21,11:412
+ 18567 multiletter control sequences out of 65536+200000
+ 42 fonts using 7860543 bytes
  52i,5n,78p,349b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/atfgaramonditalic.otf><C:/WINDOWS/Fonts/atfgaramondroman.otf><
 C:/WINDOWS/Fonts/atfgaramondbold.otf>
-Output written on Kevin_Zhu_Resume.pdf (1 page, 37759 bytes).
+Output written on Kevin_Zhu_Resume.pdf (1 page, 37325 bytes).
 
 PDF statistics: 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
