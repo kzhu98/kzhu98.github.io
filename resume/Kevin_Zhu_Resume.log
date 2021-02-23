@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.11.2 (MiKTeX 2.9.7250 64-bit)  (format=lualatex 2020.5.24)  22 FEB 2021 18:20
+This is LuaTeX, Version 1.11.2 (MiKTeX 2.9.7250 64-bit)  (format=lualatex 2020.5.24)  23 FEB 2021 10:12
  restricted system commands enabled.
 **Kevin_Zhu_Resume.tex
 (./Kevin_Zhu_Resume.tex
@@ -59,7 +59,7 @@ Lua module: luaotfload-tounicode 2019-11-10 3.11 luaotfload submodule / tounicod
 e
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 1.451 seconds
+luaotfload | main : initialization completed in 2.001 seconds
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/size11.clo"
@@ -520,7 +520,7 @@ Here is how much of LuaTeX's memory you used:
  52i,5n,78p,349b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/atfgaramonditalic.otf><C:/WINDOWS/Fonts/atfgaramondroman.otf><
 C:/WINDOWS/Fonts/atfgaramondbold.otf>
-Output written on Kevin_Zhu_Resume.pdf (1 page, 37325 bytes).
+Output written on Kevin_Zhu_Resume.pdf (1 page, 37329 bytes).
 
 PDF statistics: 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
