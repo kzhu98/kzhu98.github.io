@@ -14,6 +14,7 @@
 \newcommand{\sectline}{\vspace{5pt}\hrule height 1.5pt\vspace{5pt}}
 \newcommand{\sectspace}{\vspace{12pt}}
 \newcommand{\smallspace}{\vspace{6pt}}
+\newcommand{\red}[1]{{\color{red}#1}}
 
 
 \begin{document}
@@ -24,13 +25,18 @@
 {\fontsize{11pt}{13pt}\selectfont 4715 42nd Ave SW Apt 401, Seattle, WA 98116 | kevinzhu98@gmail.com | (510) 706-8515}
 \sectspace
 
-\fontsize{11pt}{13.5pt}\selectfont
+\fontsize{11pt}{13.75pt}\selectfont
 \raggedright
 
 %%% Work Experience %%%
 \textbf{WORK EXPERIENCE}\sectline
 \textbf{Liberty Mutual Insurance} --- Property and casualty insurance company \hfill Seattle, WA \\
 \textit{Actuarial Analyst} \hfill \textit{Oct 2021 -- Present} \\
+\begin{itemize}
+	\item Realigned medical malpractice, D\&O, and E\&O reserve classes for more granular unpaid claim analyses, splitting aggregate data into homogeneous subsegments and selecting new payment and reporting patterns
+	\item Corrected internal inconsistencies in claim count and loss data by leveraging alternative data sources and interpolating when data is unavailable, preparing reserving datasets for frequency/severity analyses
+	\item Designed new exhibits to better communicate parametric effects of changes in LDF and ELR assumptions
+\end{itemize}
 \textit{Actuarial Assistant} \hfill \textit{Jul 2020 -- Oct 2021}
 \begin{itemize}
 	\item Created database containing granular on-leveling, trending, developing, large loss smoothing, and credibility weighting of BOP losses and premiums in SAS for use in rate indications and various ad-hoc analyses
@@ -53,9 +59,9 @@
 \textit{Actuarial Intern} \hfill \textit{Jun 2018 -- Sep 2018}
 \begin{itemize}
 	\item Completed quarterly dwelling fire rate indication and inland marine reserve review, using actuarial judgment to select trends, development factors, ultimate losses, and indicated rate changes
-		\item Built a GLM in Python to model homeowners pure premium, identifying high-risk characteristics and conducting cost-benefit analyses on installing water loss prevention devices in select homes
+	\item Modeled homeowners pure premium using a GLM in Python, identifying high-risk characteristics and conducting cost-benefit analyses on installing water loss prevention devices in select homes
 %	\item Built a GLM in Python to model homeowners pure premium, conducting cost-benefit analyses on installing water loss prevention devices in selected subsets of high-risk homes 
-	\item Designed a user-friendly BOP renewal tool in Tableau for underwriters and management to easily retrieve specific policy details and summaries of segmented data	
+	\item Built a user-friendly BOP renewal tool in Tableau for underwriters and management to easily retrieve specific policy details and summaries of segmented data	
 %	\item Identified key drivers of an increase in homeowners claim severity by investigating causes of loss
 \end{itemize}
 %\smallspace 
@@ -74,23 +80,24 @@
 \textit{B.S. Mathematics/Economics; Specialization in Computing; Minor in Accounting} \hfill \textit{Sep 2016 -- Jun 2020}
 \begin{itemize}
 	\item Graduated \textit{summa cum laude} (GPA: 4.00/4.00), Elected Phi Beta Kappa, Received Outstanding Mathematics / Economics Student Award (given to five  top-ranked students based on faculty recommendations)
+	\item Served as President of Bruin Actuarial Society, UCLA's premier organization for student actuaries 
 	\item Competed in the California Actuarial League Case Competition, winning Best Solution in the Health and Benefits and Property and Casualty tracks (\textit{2018}) and Best Individual Presenter in the Retirement track (\textit{2017})
 \end{itemize}
 \sectspace
 
 %%% Leadership %%%
-\textbf{LEADERSHIP} \sectline
-\textbf{Bruin Actuarial Society} \hfill Los Angeles, CA \\
-\textit{President} \hfill \textit{May 2019 -- May 2020}
+%\textbf{LEADERSHIP} \sectline
+%\textbf{Bruin Actuarial Society} \hfill Los Angeles, CA \\
+%\textit{President} \hfill \textit{May 2019 -- May 2020}
 %\textit{Director of Professional Development} \hfill \textit{May 2018 -- May 2019} \\
 %\textit{Corporate Liaison} \hfill \textit{May 2017 -- May 2018}
-\begin{itemize}
+%\begin{itemize}
 %	\item Served previously as Director of Professional Development (\textit{2018 -- 2019}) and Corporate Liaison (\textit{2017 -- 2018})
-	\item Led a team of 6 officers and corresponded with actuaries from various firms to plan and execute an annual career fair, case competition, banquet, and various workshops for hundreds of members
+%	\item Led a team of 6 officers and corresponded with actuaries from various firms to plan and execute an annual career fair, case competition, banquet, and various workshops for hundreds of members
 %	\item Wrote 5 technical workshops incorporating simulated data to introduce Excel and SQL in actuarial contexts
-	\item Introduced new workshops incorporating Excel examples to illustrate P\&C pricing and reserving concepts
-\end{itemize}
-\sectspace
+%	\item Introduced new workshops incorporating Excel examples to illustrate P\&C pricing and reserving concepts
+%\end{itemize}
+%\sectspace
 
 %%% Awards %%%
 %\textbf{AWARDS} \sectline
@@ -126,7 +133,8 @@
 \begin{itemize}
 	\item \textbf{Computer Languages:} SAS, SQL, R, Python, VBA
 %	HTML \& CSS, JavaScript, PHP, C++, \LaTeX
-	\item \textbf{Other Tools}: Advanced Microsoft Excel, Intermediate Tableau, Introductory Microsoft Access
+	\item \textbf{Other Tools}: Advanced Microsoft Excel, Introductory Microsoft Access
+%	Intermediate Tableau
 %	\item \textbf{Languages:} Conversational Mandarin Chinese
 \end{itemize}
 
