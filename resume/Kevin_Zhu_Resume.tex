@@ -12,9 +12,10 @@
 \setlist[itemize]{leftmargin=*,nosep}
 \pagenumbering{gobble}
 \newcommand{\sectline}{\vspace{5pt}\hrule height 1.5pt\vspace{5pt}}
-\newcommand{\sectspace}{\vspace{12pt}}
+\newcommand{\sectspace}{\vspace{9pt}}
 \newcommand{\smallspace}{\vspace{6pt}}
 \newcommand{\red}[1]{{\color{red}#1}}
+\newcommand{\heading}[1]{{\fontsize{12pt}{13pt} {\textbf{\textsc{#1}}}}}
 
 
 \begin{document}
@@ -29,17 +30,17 @@
 \raggedright
 
 %%% Work Experience %%%
-\textbf{WORK EXPERIENCE}\sectline
+\heading{Work Experience}\sectline
 \textbf{Liberty Mutual Insurance} --- Property and casualty insurance company \hfill Seattle, WA \\
 \textit{Actuarial Analyst} \hfill \textit{Oct 2021 -- Present} \\
 \begin{itemize}
-	\item Realigned medical malpractice, D\&O, and E\&O reserve classes for more granular unpaid claim analyses, splitting aggregate data into homogeneous subsegments and selecting new payment and reporting patterns
+	\item Realigned medical malpractice, D\&O, and E\&O reserve classes for granular unpaid claim analyses, splitting aggregate data into homogeneous subsegments and selecting new payment and reporting patterns
 	\item Corrected internal inconsistencies in claim count and loss data by leveraging alternative data sources and interpolating when data is unavailable, preparing reserving datasets for frequency/severity analyses
-	\item Designed new exhibits to better communicate parametric effects of changes in LDF and ELR assumptions
+	\item Designed new exhibits to communicate parametric effects of changes in LDF and ELR assumptions
 \end{itemize}
 \textit{Actuarial Assistant} \hfill \textit{Jul 2020 -- Oct 2021}
 \begin{itemize}
-	\item Created database containing granular on-leveling, trending, developing, large loss smoothing, and credibility weighting of BOP losses and premiums in SAS for use in rate indications and various ad-hoc analyses
+	\item Created database containing granular on-leveling, trending, developing, large loss smoothing, and credibility weighting of BOP losses and premiums in SAS for rate indications and various ad-hoc analyses
 	\item Automated procedure to quantify effects of updated selections and loss experience on state indications
 	\item Compared various external benchmarks to quantify COVID impact on BOP liability losses, estimating state-level adjustments to indications to produce prospective estimates for post-COVID loss periods
 	\item Developed logic for on-leveling policies from different rating platforms onto a single uniform basis, including consideration for minimum premium, premium modification factors, missing rates, and inaccurate data
@@ -75,7 +76,7 @@
 \sectspace
 
 %%% Education %%%
-\textbf{EDUCATION}\sectline
+\heading{Education}\sectline
 \textbf{University of California, Los Angeles} \hfill Los Angeles, CA \\
 \textit{B.S. Mathematics/Economics; Specialization in Computing; Minor in Accounting} \hfill \textit{Sep 2016 -- Jun 2020}
 \begin{itemize}
@@ -129,11 +130,12 @@
 %\sectspace
 
 %%% Additional %%%
-\textbf{ADDITIONAL}\sectline
+\heading{Additional}\sectline
 \begin{itemize}
-	\item \textbf{Computer Languages:} SAS, SQL, R, Python, VBA
+	\item \textbf{CAS Exams}: Passed Exam 7 (Score 10) -- \textit{May 2022}
+	\item \textbf{Computer Languages and Tools:} SAS, SQL, R, Python, VBA
 %	HTML \& CSS, JavaScript, PHP, C++, \LaTeX
-	\item \textbf{Other Tools}: Advanced Microsoft Excel, Introductory Microsoft Access
+	\item \textbf{Other Tools}: Advanced Microsoft Excel, Intermediate Microsoft Access, ResQ
 %	Intermediate Tableau
 %	\item \textbf{Languages:} Conversational Mandarin Chinese
 \end{itemize}
